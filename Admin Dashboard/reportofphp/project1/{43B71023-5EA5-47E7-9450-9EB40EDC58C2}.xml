@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2023/02/26" author="e.World Technology Ltd.">
+  <project id="{43B71023-5EA5-47E7-9450-9EB40EDC58C2}" file="" name="project1" product="PHPReportMaker" version="12.0" datetime="2023/02/26 10:03:52" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="area" name="area" caption="area" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="feedback_report" name="feedback report" caption="feedback report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="inquiry_datewise" name="inquiry datewise" caption="inquiry datewise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="inquiry_report" name="inquiry_report" caption="inquiry report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product" name="product" caption="product" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_stock" name="product stock" caption="product stock" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="production_datewise" name="production datewise" caption="production datewise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="purchase_datewise" name="purchase datewise" caption="purchase datewise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="purchase_return_report" name="purchase_return_report" caption="purchase return report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rating" name="rating" caption="rating" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rawmaterial_stock_reports" name="rawmaterial_stock_reports" caption="rawmaterial stock reports" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sales_datewise" name="sales datewise" caption="sales datewise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sales_report" name="sales_report" caption="sales report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="services_report" name="services_report" caption="services report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="user_details" name="user_details" caption="user details" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="ratting_report" name="ratting report" caption="ratting report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>

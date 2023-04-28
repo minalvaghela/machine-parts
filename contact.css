@@ -1,0 +1,12 @@
+body 
+{ 
+    background-color:antiquewhite; 
+    background-image:url("image/pic.jfif"); 
+    background-size: 100%; 
+ 
+} 
+ul li 
+{ 
+    color:white; 
+    font-size:30px; 
+}

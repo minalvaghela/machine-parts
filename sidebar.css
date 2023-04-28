@@ -1,0 +1,56 @@
+.sidebar-nav{
+    width: 300px;
+}
+
+
+.sidebar-nav ul li a {    
+    
+    text-decoration: none;
+    display: block;
+    padding: 10px 10px;
+    transition: 0.5s;
+}
+
+.sidebar-nav ul li a:hover {
+    background-color:antiquewhite;
+    border-radius: 4px;
+    font-style: italic;
+}
+
+.sidebar-nav .offcanvas {
+    width: 120px;
+    border: none;
+    
+}
+
+.sidebar-nav .offcanvas .offcanvas-body
+{
+    background-color:floralwhite;
+    width: 250px;
+}
+
+.sidebar-nav .navbar .navbar-toggler
+{
+    margin-left: 90%;
+}
+
+.sidebar-nav .offcanvas ul li a span {
+    font-size: 18px;
+    position: relative;
+    top: -4px;
+    transition: 0.5s;
+}
+
+.sidebar-nav .offcanvas.show ul li a:hover span {
+    padding-left: 10px;
+}
+
+.sidebar-nav .dropdown-toggle::after {
+    position: relative;
+    top: 3px;
+}
+.img
+{
+    height:15px;
+    width:15px;
+}

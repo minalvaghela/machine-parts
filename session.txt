@@ -1,0 +1,28 @@
+if(isset($_SESSION['loggedin'])&& $_SESSION['loggedin']==true){
+      echo' <form class="d-flex">
+                    <button type="button" class="btn btn-transparent" data-bs-toggle="modal"
+                        data-bs-target="#loginModal">
+                        Login
+                    </button>
+                    <button type="button" class="btn btn-transparent" data-bs-toggle=" modal"
+                        data-bs-target="#signupModal">
+                        Signup
+                    </button>
+                  <p class="text-light"> welcome'. $_SESSION['$username'].'</p>;
+                  <a href=/machine&parts/logout.php class="btn btn-transparent" >
+                  Logout
+                  </button>
+                </form>';
+    }
+    else{
+       echo '<form class="d-flex">
+        <button type="button" class="btn btn-transparent" data-bs-toggle="modal"
+            data-bs-target="#loginModal">
+            Login
+        </button>
+        <button type="button" class="btn btn-transparent" data-bs-toggle=" modal"
+            data-bs-target="#signupModal">
+            Signup
+        </button>
+    </form>'
+ }

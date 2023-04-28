@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="sidbar-nav">
+        <nav class="navbar navbar-dark bg-danger fixed-top">
+            <div class="container">
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                    data-bs-target="#offcanvasNavbar" aria-controls="offcanvaasNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="bg-light offcanvas-start shadow" tabindex="-1" id="ofcanvasNavbar"
+                aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav">
+                        <li><a href="#"><span class="item-text">home</span></a></li>
+                        <li><a href="#"><span class="item-text">product</span></a></li>
+                        <li><a href="#"><span class="item-text">order</span></a></li>
+                        <li>
+                            <hr class="dropdown-Divider">
+                        </li>
+                        <li><a href="#"><span class="item-text">order</span></a></li>
+                        <li><a href="#"><span class="item-text">order</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            
+
+</body>
+
+</html>
