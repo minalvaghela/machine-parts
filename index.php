@@ -4,7 +4,7 @@ if($_SESSION['roleid'] == 2 || $_SESSION['roleid'] == 3)
 {
 ?>
 <!DOCTYPE html>
-<!-- Designined by CodingLab | www.youtube.com/codinglabyt -->
+
 <html lang="en" dir="ltr">
 
 
